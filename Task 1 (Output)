@@ -1,0 +1,23 @@
+Enter number of employees: 3
+
+Enter employee details:
+
+Employee 1
+Enter ID: 101
+Enter Name: Ali
+Enter Salary: 45000
+
+Employee 2
+Enter ID: 102
+Enter Name: Sana
+Enter Salary: 55000
+
+Employee 3
+Enter ID: 103
+Enter Name: John
+Enter Salary: 47000
+
+--- Employee Database ---
+ID: 101  Name: Ali   Salary: 45000.00
+ID: 102  Name: Sana  Salary: 55000.00
+ID: 103  Name: John  Salary: 47000.00
