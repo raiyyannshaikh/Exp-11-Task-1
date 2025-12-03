@@ -10,14 +10,14 @@ Enter Salary: 45000
 Employee 2
 Enter ID: 102
 Enter Name: Sana
-Enter Salary: 55000
+Enter Salary: 52000
 
 Employee 3
 Enter ID: 103
 Enter Name: John
-Enter Salary: 47000
+Enter Salary: 48000
 
 --- Employee Database ---
-ID: 101  Name: Ali   Salary: 45000.00
-ID: 102  Name: Sana  Salary: 55000.00
-ID: 103  Name: John  Salary: 47000.00
+ID: 101    Name: Ali     Salary: 45000.00
+ID: 102    Name: Sana    Salary: 52000.00
+ID: 103    Name: John    Salary: 48000.00
